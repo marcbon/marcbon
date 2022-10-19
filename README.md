@@ -1,24 +1,20 @@
 ### Welcome,<br>I'm Marco Goodman 👋
 
-<!--
-**marcbon/marcbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤩 About Me:
+```javascript
+const goodman = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, PHP],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "Learn one new thing every day"
+}
+```
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcbon&include_all_commits=true&theme=radical&hide_border=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcbon&include_all_commits=true&theme=radical&hide_border=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbon&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact)
+[![Goodman's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcbon&custom_title=Goodman's%20GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Goodman's Streak](https://github-readme-streak-stats.herokuapp.com?user=marcbon&theme=radical&hide_border=true&dates=141321&sideNums=A8FDF6&background=141321)](https://git.io/streak-stats)<br/>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -90,6 +86,6 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)
-[![Linkedin: bonomo-marco](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonomo-marco/)](https://www.linkedin.com/in/bonomo-marco/)
+[![Goodman's Visit Count](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![Linkedin Goodman](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonomo-marco/)](https://www.linkedin.com/in/bonomo-marco/)
 [![GitHub marcbon](https://img.shields.io/github/followers/marcbon?label=follow&style=social)](https://github.com/marcbon)
