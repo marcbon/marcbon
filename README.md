@@ -1,4 +1,4 @@
-### Welcome, I'm Marco Goodman 👋
+### Welcome,<br>I'm Marco Goodman 👋
 
 <!--
 **marcbon/marcbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,5 +87,9 @@ Here are some ideas to get you started:
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
+
 ![](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)
+[![Linkedin: bonomo-marco](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonomo-marco/)](https://www.linkedin.com/in/bonomo-marco/)
+[![GitHub marcbon](https://img.shields.io/github/followers/marcbon?label=follow&style=social)](https://github.com/marcbon)
