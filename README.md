@@ -1,6 +1,11 @@
-### Welcome,<br>I'm Marco Goodman 👋
+<h2>Hi, I'm Marco Goodman <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30"></h2>
+  
+<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100">
 
-# 🤩 About Me:
+# 🦸‍♂️ About Me:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=B8356E&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
 ```javascript
 const goodman = {
   pronouns: "he" | "him",
@@ -10,11 +15,12 @@ const goodman = {
   challenge: "Learn one new thing every day"
 }
 ```
-<img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="100">
 
 # 📊 GitHub Stats:
 [![Goodman's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcbon&custom_title=Goodman's%20GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Goodman's Streak](https://github-readme-streak-stats.herokuapp.com?user=marcbon&theme=radical&hide_border=true&dates=141321&sideNums=A8FDF6&background=141321)](https://git.io/streak-stats)<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=marcbon&bg_color=141321&color=A8FDF6&line=F85D7F&point=e9cb45&hide_border=true&custom_title=Goodman's%20Contributions" /></a>
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -86,6 +92,6 @@ const goodman = {
 
 ---
 
-[![Goodman's Visit Count](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![Goodman's Visit Count](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)<br/><br/>
 [![Linkedin Goodman](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonomo-marco/)](https://www.linkedin.com/in/bonomo-marco/)
 [![GitHub marcbon](https://img.shields.io/github/followers/marcbon?label=follow&style=social)](https://github.com/marcbon)
