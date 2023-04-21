@@ -19,7 +19,7 @@ const goodman = {
 # 📊 GitHub Stats:
 [![Goodman's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcbon&custom_title=Goodman's%20GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Goodman's Streak](https://github-readme-streak-stats.herokuapp.com?user=marcbon&theme=radical&hide_border=true&dates=141321&sideNums=A8FDF6&background=141321)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbon)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbon)](https://github.com/anuraghazra/github-readme-stats)<br/>-->
 
 
 # 💻 Tech Stack:
