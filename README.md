@@ -92,6 +92,5 @@ const goodman = {
 
 ---
 
-[![Goodman's Visit Count](https://visitcount.itsvg.in/api?id=marcbon&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)<br/><br/>
 [![Linkedin Goodman](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonomo-marco/)](https://www.linkedin.com/in/bonomo-marco/)
 [![GitHub marcbon](https://img.shields.io/github/followers/marcbon?label=follow&style=social)](https://github.com/marcbon)
