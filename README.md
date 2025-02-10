@@ -18,7 +18,7 @@ const goodman = {
 
 # 📊 GitHub Stats:
 [![Goodman's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcbon&custom_title=Goodman's%20GitHub%20Stats&include_all_commits=true&theme=radical&hide_border=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbon)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbon)](https://github.com/anuraghazra/github-readme-stats)<br/>-->
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
